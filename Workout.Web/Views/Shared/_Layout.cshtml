@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Workout.Web.styles.css" asp-append-version="true" />
+</head>
+<body>
+    
+        <main role="main">
+            @RenderBody()
+        </main>
+
+    <footer>
+        <ul>
+            <li>
+                <a href="Home" class="menu-button">
+                    <img src="~/images/home.svg" alt="An image of a house silhouette" class="menu-image">
+                    <div class="menu-text">Workout</div>
+                </a>
+            </li>
+            <li>
+                <a href="Program" class="menu-button">
+                    <img src="~/images/program.svg" alt="An image that resembles a to-do list with circular completion buttons" class="menu-image">
+                    <div class="menu-text">Program</div>
+                </a>
+            </li>
+            <li>
+                <a href="History" class="menu-button">
+                    <img src="~/images/history.svg" alt="An image of a calendar layout" class="menu-image">
+                    <div class="menu-text">History</div>
+                </a>
+            </li>
+            <li>
+                <a href="Reports" class="menu-button">
+                    <img src="~/images/reports.svg" alt="An image of a bar chart." class="menu-image">
+                    <div class="menu-text">Reports</div>
+                </a>
+            </li>
+            <li>
+                <a href="Settings" class="menu-button">
+                    <img src="~/images/settings.svg" alt="An image of two slider buttons on turned on and one turned off." class="menu-image">
+                    <div class="menu-text">Settings</div>
+                </a>
+            </li>
+        </ul>
+    </footer>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Workout.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Workout.Web.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\history.svg",
+      "PackagePath": "staticwebassets\\images\\history.svg"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\home.svg",
+      "PackagePath": "staticwebassets\\images\\home.svg"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\program.svg",
+      "PackagePath": "staticwebassets\\images\\program.svg"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\reports.svg",
+      "PackagePath": "staticwebassets\\images\\reports.svg"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\settings.svg",
+      "PackagePath": "staticwebassets\\images\\settings.svg"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Workout.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Workout.Web.props",
+      "PackagePath": "build\\Workout.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Workout.Web.props",
+      "PackagePath": "buildMultiTargeting\\Workout.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Workout.Web.props",
+      "PackagePath": "buildTransitive\\Workout.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
