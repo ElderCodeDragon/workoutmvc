@@ -37,3 +37,4 @@ c:\Users\fogho\source\repos\workoutmvc\Workout.Web\obj\Debug\net8.0\refint\Worko
 c:\Users\fogho\source\repos\workoutmvc\Workout.Web\obj\Debug\net8.0\Workout.Web.pdb
 c:\Users\fogho\source\repos\workoutmvc\Workout.Web\obj\Debug\net8.0\Workout.Web.genruntimeconfig.cache
 c:\Users\fogho\source\repos\workoutmvc\Workout.Web\obj\Debug\net8.0\ref\Workout.Web.dll
+c:\Users\fogho\source\repos\workoutmvc\Workout.Web\obj\Debug\net8.0\Workout.Web.sourcelink.json
