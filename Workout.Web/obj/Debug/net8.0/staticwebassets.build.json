@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9wYCyoy4yrDSImODlVf6NH+rAO2F9/bv9G3E/PHtU1E=",
+  "Hash": "it0+5GaOXMgrzbzzjkdBrbviTAQWLT/T84QZfWb0Ieo=",
   "Source": "Workout.Web",
   "BasePath": "_content/Workout.Web",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Workout.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\reset.css",
+      "SourceId": "Workout.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "BasePath": "_content/Workout.Web",
+      "RelativePath": "css/reset.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\reset.css"
     },
     {
       "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\site.css",
