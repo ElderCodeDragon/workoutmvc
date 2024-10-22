@@ -1,0 +1,1 @@
+alert("On the Home Page");

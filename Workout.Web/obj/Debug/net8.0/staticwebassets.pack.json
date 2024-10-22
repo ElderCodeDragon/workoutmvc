@@ -5,8 +5,28 @@
       "PackagePath": "staticwebassets\\Workout.Web.bundle.scp.css"
     },
     {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\history.css",
+      "PackagePath": "staticwebassets\\css\\history.css"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\program.css",
+      "PackagePath": "staticwebassets\\css\\program.css"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\reports.css",
+      "PackagePath": "staticwebassets\\css\\reports.css"
+    },
+    {
       "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\reset.css",
       "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\settings.css",
+      "PackagePath": "staticwebassets\\css\\settings.css"
     },
     {
       "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\site.css",
@@ -35,6 +55,26 @@
     {
       "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\settings.svg",
       "PackagePath": "staticwebassets\\images\\settings.svg"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\history.js",
+      "PackagePath": "staticwebassets\\js\\history.js"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\home.js",
+      "PackagePath": "staticwebassets\\js\\home.js"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\program.js",
+      "PackagePath": "staticwebassets\\js\\program.js"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\reports.js",
+      "PackagePath": "staticwebassets\\js\\reports.js"
+    },
+    {
+      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\settings.js",
+      "PackagePath": "staticwebassets\\js\\settings.js"
     },
     {
       "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\site.js",
