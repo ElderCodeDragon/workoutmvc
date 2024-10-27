@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "Dapper/2.1.35": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authentication.Negotiate/8.0.7": {
         "type": "package",
         "dependencies": {
@@ -211,10 +224,41 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "WorkoutLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/WorkoutLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WorkoutLibrary.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "Dapper/2.1.35": {
+      "sha512": "YKRwjVfrG7GYOovlGyQoMvr1/IJdn+7QzNXJxyMh0YfFF5yvDmTYaJOVYWsckreNjGsGSEtrMTpnzxTUq/tZQw==",
+      "type": "package",
+      "path": "dapper/2.1.35",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Dapper.png",
+        "dapper.2.1.35.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/net7.0/Dapper.dll",
+        "lib/net7.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml",
+        "readme.md"
+      ]
+    },
     "Microsoft.AspNetCore.Authentication.Negotiate/8.0.7": {
       "sha512": "x/poD3OnsXpeqP2Y5CtjW8BWEhhI9LlatyTPtCUjbeoMPB3tq6VxWIBbVNjfQzvMY6hR2E8yi7rVCcqjyWp55g==",
       "type": "package",
@@ -585,11 +629,18 @@
         "system.io.pipelines.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "WorkoutLibrary/1.0.0": {
+      "type": "project",
+      "path": "../WorkoutLibrary/WorkoutLibrary.csproj",
+      "msbuildProject": "../WorkoutLibrary/WorkoutLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Microsoft.AspNetCore.Authentication.Negotiate >= 8.0.7"
+      "Dapper >= 2.1.35",
+      "Microsoft.AspNetCore.Authentication.Negotiate >= 8.0.7",
+      "WorkoutLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -598,11 +649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\Workout.Web.csproj",
+      "projectUniqueName": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\Workout.Web.csproj",
       "projectName": "Workout.Web",
-      "projectPath": "C:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\Workout.Web.csproj",
+      "projectPath": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\Workout.Web.csproj",
       "packagesPath": "C:\\Users\\fogho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\obj\\",
+      "outputPath": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fogho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -621,7 +672,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\fogho\\source\\repos\\workoutmvc\\WorkoutLibrary\\WorkoutLibrary.csproj": {
+              "projectPath": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\WorkoutLibrary\\WorkoutLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -639,6 +694,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.1.35, )"
+          },
           "Microsoft.AspNetCore.Authentication.Negotiate": {
             "target": "Package",
             "version": "[8.0.7, )"
