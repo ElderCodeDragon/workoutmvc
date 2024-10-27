@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Workout.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82be5c6fe5b2f622e476c322540cb0963d970227")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a61dfceb2176bc66b5794600f1659bcc68ec3a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Workout.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Workout.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

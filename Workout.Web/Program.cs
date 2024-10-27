@@ -14,6 +14,8 @@ builder.Services.AddAuthorization(options =>
     options.FallbackPolicy = options.DefaultPolicy;
 });
 builder.Services.AddRazorPages();
+builder.Services.AddControllers();
+
 
 var app = builder.Build();
 
@@ -35,5 +37,10 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
+    name: "api",
+    pattern: "REST/{controller=Workout}/{action}/{arg?}"
+);
 
 app.Run();
