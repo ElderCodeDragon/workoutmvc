@@ -4,14 +4,14 @@
     "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\Workout.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\Workout.Web.csproj": {
+    "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Library\\Workout.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\Workout.Web.csproj",
-        "projectName": "Workout.Web",
-        "projectPath": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\Workout.Web.csproj",
+        "projectUniqueName": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Library\\Workout.Library.csproj",
+        "projectName": "Workout.Library",
+        "projectPath": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Library\\Workout.Library.csproj",
         "packagesPath": "C:\\Users\\fogho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\obj\\",
+        "outputPath": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,6 +52,78 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\Workout.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\Workout.Web.csproj",
+        "projectName": "Workout.Web",
+        "projectPath": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\Workout.Web.csproj",
+        "packagesPath": "C:\\Users\\fogho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fogho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\fogho\\OneDrive\\Documents\\GridView": {},
+          "C:\\Users\\fogho\\source\\repos\\JsonGridView\\GridViewTestSite\\bin\\Release": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Library\\Workout.Library.csproj": {
+                "projectPath": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Library\\Workout.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -59,7 +131,7 @@
             },
             "Microsoft.AspNetCore.Authentication.Negotiate": {
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[8.0.10, )"
             }
           },
           "imports": [

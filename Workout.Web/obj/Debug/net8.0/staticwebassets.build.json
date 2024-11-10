@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+msunBmvseSCP1ghfXN8tsZXcGp1YTMGeyb/Rka1/sw=",
+  "Hash": "dywuQqAUMjqnZK7Rr0+5N2fwbFeTUhlvvTpJGXtVkkU=",
   "Source": "Workout.Web",
   "BasePath": "_content/Workout.Web",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "Workout.Web\\wwwroot",
       "Source": "Workout.Web",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Workout.Web.styles.css",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Workout.Web.styles.css",
       "SourceId": "Workout.Web",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "Workout.Web.styles.css",
+      "RelativePath": "Workout.Web#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,17 +31,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "jxz4v7y7h8",
+      "Integrity": "52ldCu1JTuMqu8w3kl2Cf9DJ599jgIc6guuRRCr6w1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Workout.Web.styles.css"
+      "OriginalItemSpec": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Workout.Web.styles.css"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Workout.Web.bundle.scp.css",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Workout.Web.bundle.scp.css",
       "SourceId": "Workout.Web",
       "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "Workout.Web.bundle.scp.css",
+      "RelativePath": "Workout.Web#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -50,370 +52,2134 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "jxz4v7y7h8",
+      "Integrity": "52ldCu1JTuMqu8w3kl2Cf9DJ599jgIc6guuRRCr6w1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Workout.Web.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Workout.Web.bundle.scp.css"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\history.css",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\history.css",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "css/history.css",
+      "RelativePath": "css/history#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "r2z5ygu43m",
+      "Integrity": "08JtnY+kdLdkQ2Ht6/pgIXP2KhmZ3HPuWy1taOAXLGs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\history.css"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\home.css",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\home.css",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "css/home.css",
+      "RelativePath": "css/home#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "wl8bghxclm",
+      "Integrity": "VATw/GI1Duwve1FGJ+z3c4gwulpBbeoGo1DqO20SdxM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\home.css"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\program.css",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\program.css",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "css/program.css",
+      "RelativePath": "css/program#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "l8325axe0g",
+      "Integrity": "5Zn0oDbETDdRDyxR1UX6G4rIinzn1l5OJVbHV3pU28w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\program.css"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\reports.css",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\reports.css",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "css/reports.css",
+      "RelativePath": "css/reports#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "pa8d2nd67a",
+      "Integrity": "Qbn5FSpBodB/qoyWqCBy8Uw/996x+ufhEMSX00CT9S0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\reports.css"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\reset.css",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\reset.css",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "css/reset.css",
+      "RelativePath": "css/reset#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "s7ehxi0b71",
+      "Integrity": "OGvxrfq4EHUP5Q3+3lBGpLNyHeOIIX4oqaxkU3NKbdY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\reset.css"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\settings.css",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\settings.css",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "css/settings.css",
+      "RelativePath": "css/settings#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "vks2e1581e",
+      "Integrity": "L7/5nvG49EJPfVF/MkSIDzA2cMTBB8iHfv9m7WEfDD4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\settings.css"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\site.css",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "jestxicjg1",
+      "Integrity": "C/75lMOx8gVzNPr3I2jTSSI2kmaQ93c4lAxfrYg/rbQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\favicon.ico",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "61n19gt1b8",
+      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\history.svg",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\history.svg",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "images/history.svg",
+      "RelativePath": "images/history#[.{fingerprint}]?.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "kv2bf8hotz",
+      "Integrity": "sH3zra3cHa3NoMY5i5JOB93mUbN5cIBXfrIn+A4uci4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\history.svg"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\home.svg",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\home.svg",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "images/home.svg",
+      "RelativePath": "images/home#[.{fingerprint}]?.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "p82h32iljq",
+      "Integrity": "mbAj7hZS5dILauwiYm4BW0ouZU9o4W998Qax1L7bFQ0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\home.svg"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\program.svg",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\program.svg",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "images/program.svg",
+      "RelativePath": "images/program#[.{fingerprint}]?.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "f181xtojhe",
+      "Integrity": "DYwrNg3Qouu3hjswUTMxxoKK7Phwa85b5tMRmr+jh9w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\program.svg"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\reports.svg",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\reports.svg",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "images/reports.svg",
+      "RelativePath": "images/reports#[.{fingerprint}]?.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "7kpkq51zx6",
+      "Integrity": "meMmm578/fCfRVIzh8h9PvE9dujgbGjbtCsCLA22gYM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\reports.svg"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\settings.svg",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\settings.svg",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "images/settings.svg",
+      "RelativePath": "images/settings#[.{fingerprint}]?.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ntavs7krey",
+      "Integrity": "i2CyfMRBTeBYW9FO3SNr/4+gjJaIjeRIpSaLf6gvV8c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\settings.svg"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\history.js",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\history.js",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "js/history.js",
+      "RelativePath": "js/history#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "2loypq0eo9",
+      "Integrity": "9pHhQygsmCtsIXY5qkR3JVMEWIMzjqtJx/Ep1QAJzr4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\history.js"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\home.js",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\home.js",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "js/home.js",
+      "RelativePath": "js/home#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "3gytpd41x4",
+      "Integrity": "XR9UfJySSWu0n5suWPBSoOlYJ9fFW0hryW9XNcajJxA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\home.js"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\program.js",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\program.js",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "js/program.js",
+      "RelativePath": "js/program#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "z24230mf6y",
+      "Integrity": "K4T93qBe+R10wvL9x6ikbiu3ww9MlVv6gp7OzZkv0vs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\program.js"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\reports.js",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\reports.js",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "js/reports.js",
+      "RelativePath": "js/reports#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "1udpyy4muu",
+      "Integrity": "twNB/6/f7rm/1wTWLuD1buLpy/dDiwKOsoQ7UJQI47w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\reports.js"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\settings.js",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\settings.js",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "js/settings.js",
+      "RelativePath": "js/settings#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "una4i54zds",
+      "Integrity": "BmtOVVMlgyD8mnJIlTr/Y1zNPszvDjUpPpz05skqKf8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\settings.js"
     },
     {
-      "Identity": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\site.js",
       "SourceId": "Workout.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\",
       "BasePath": "_content/Workout.Web",
-      "RelativePath": "js/site.js",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "xtxxf3hu2r",
+      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/history.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\history.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"08JtnY+kdLdkQ2Ht6/pgIXP2KhmZ3HPuWy1taOAXLGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-08JtnY+kdLdkQ2Ht6/pgIXP2KhmZ3HPuWy1taOAXLGs="
+        }
+      ]
+    },
+    {
+      "Route": "css/history.r2z5ygu43m.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\history.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"08JtnY+kdLdkQ2Ht6/pgIXP2KhmZ3HPuWy1taOAXLGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r2z5ygu43m"
+        },
+        {
+          "Name": "label",
+          "Value": "css/history.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-08JtnY+kdLdkQ2Ht6/pgIXP2KhmZ3HPuWy1taOAXLGs="
+        }
+      ]
+    },
+    {
+      "Route": "css/home.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VATw/GI1Duwve1FGJ+z3c4gwulpBbeoGo1DqO20SdxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VATw/GI1Duwve1FGJ+z3c4gwulpBbeoGo1DqO20SdxM="
+        }
+      ]
+    },
+    {
+      "Route": "css/home.wl8bghxclm.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VATw/GI1Duwve1FGJ+z3c4gwulpBbeoGo1DqO20SdxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wl8bghxclm"
+        },
+        {
+          "Name": "label",
+          "Value": "css/home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VATw/GI1Duwve1FGJ+z3c4gwulpBbeoGo1DqO20SdxM="
+        }
+      ]
+    },
+    {
+      "Route": "css/program.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\program.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Zn0oDbETDdRDyxR1UX6G4rIinzn1l5OJVbHV3pU28w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Zn0oDbETDdRDyxR1UX6G4rIinzn1l5OJVbHV3pU28w="
+        }
+      ]
+    },
+    {
+      "Route": "css/program.l8325axe0g.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\program.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Zn0oDbETDdRDyxR1UX6G4rIinzn1l5OJVbHV3pU28w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l8325axe0g"
+        },
+        {
+          "Name": "label",
+          "Value": "css/program.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Zn0oDbETDdRDyxR1UX6G4rIinzn1l5OJVbHV3pU28w="
+        }
+      ]
+    },
+    {
+      "Route": "css/reports.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\reports.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qbn5FSpBodB/qoyWqCBy8Uw/996x+ufhEMSX00CT9S0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qbn5FSpBodB/qoyWqCBy8Uw/996x+ufhEMSX00CT9S0="
+        }
+      ]
+    },
+    {
+      "Route": "css/reports.pa8d2nd67a.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\reports.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qbn5FSpBodB/qoyWqCBy8Uw/996x+ufhEMSX00CT9S0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pa8d2nd67a"
+        },
+        {
+          "Name": "label",
+          "Value": "css/reports.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qbn5FSpBodB/qoyWqCBy8Uw/996x+ufhEMSX00CT9S0="
+        }
+      ]
+    },
+    {
+      "Route": "css/reset.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\reset.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OGvxrfq4EHUP5Q3+3lBGpLNyHeOIIX4oqaxkU3NKbdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OGvxrfq4EHUP5Q3+3lBGpLNyHeOIIX4oqaxkU3NKbdY="
+        }
+      ]
+    },
+    {
+      "Route": "css/reset.s7ehxi0b71.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\reset.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OGvxrfq4EHUP5Q3+3lBGpLNyHeOIIX4oqaxkU3NKbdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s7ehxi0b71"
+        },
+        {
+          "Name": "label",
+          "Value": "css/reset.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OGvxrfq4EHUP5Q3+3lBGpLNyHeOIIX4oqaxkU3NKbdY="
+        }
+      ]
+    },
+    {
+      "Route": "css/settings.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\settings.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L7/5nvG49EJPfVF/MkSIDzA2cMTBB8iHfv9m7WEfDD4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L7/5nvG49EJPfVF/MkSIDzA2cMTBB8iHfv9m7WEfDD4="
+        }
+      ]
+    },
+    {
+      "Route": "css/settings.vks2e1581e.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\settings.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L7/5nvG49EJPfVF/MkSIDzA2cMTBB8iHfv9m7WEfDD4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vks2e1581e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/settings.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L7/5nvG49EJPfVF/MkSIDzA2cMTBB8iHfv9m7WEfDD4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C/75lMOx8gVzNPr3I2jTSSI2kmaQ93c4lAxfrYg/rbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C/75lMOx8gVzNPr3I2jTSSI2kmaQ93c4lAxfrYg/rbQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.jestxicjg1.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C/75lMOx8gVzNPr3I2jTSSI2kmaQ93c4lAxfrYg/rbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jestxicjg1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C/75lMOx8gVzNPr3I2jTSSI2kmaQ93c4lAxfrYg/rbQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/history.kv2bf8hotz.svg",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\history.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sH3zra3cHa3NoMY5i5JOB93mUbN5cIBXfrIn+A4uci4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kv2bf8hotz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/history.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sH3zra3cHa3NoMY5i5JOB93mUbN5cIBXfrIn+A4uci4="
+        }
+      ]
+    },
+    {
+      "Route": "images/history.svg",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\history.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sH3zra3cHa3NoMY5i5JOB93mUbN5cIBXfrIn+A4uci4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sH3zra3cHa3NoMY5i5JOB93mUbN5cIBXfrIn+A4uci4="
+        }
+      ]
+    },
+    {
+      "Route": "images/home.p82h32iljq.svg",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\home.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mbAj7hZS5dILauwiYm4BW0ouZU9o4W998Qax1L7bFQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p82h32iljq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/home.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mbAj7hZS5dILauwiYm4BW0ouZU9o4W998Qax1L7bFQ0="
+        }
+      ]
+    },
+    {
+      "Route": "images/home.svg",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\home.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mbAj7hZS5dILauwiYm4BW0ouZU9o4W998Qax1L7bFQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mbAj7hZS5dILauwiYm4BW0ouZU9o4W998Qax1L7bFQ0="
+        }
+      ]
+    },
+    {
+      "Route": "images/program.f181xtojhe.svg",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\program.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DYwrNg3Qouu3hjswUTMxxoKK7Phwa85b5tMRmr+jh9w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f181xtojhe"
+        },
+        {
+          "Name": "label",
+          "Value": "images/program.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DYwrNg3Qouu3hjswUTMxxoKK7Phwa85b5tMRmr+jh9w="
+        }
+      ]
+    },
+    {
+      "Route": "images/program.svg",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\program.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DYwrNg3Qouu3hjswUTMxxoKK7Phwa85b5tMRmr+jh9w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DYwrNg3Qouu3hjswUTMxxoKK7Phwa85b5tMRmr+jh9w="
+        }
+      ]
+    },
+    {
+      "Route": "images/reports.7kpkq51zx6.svg",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\reports.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"meMmm578/fCfRVIzh8h9PvE9dujgbGjbtCsCLA22gYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7kpkq51zx6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/reports.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-meMmm578/fCfRVIzh8h9PvE9dujgbGjbtCsCLA22gYM="
+        }
+      ]
+    },
+    {
+      "Route": "images/reports.svg",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\reports.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"meMmm578/fCfRVIzh8h9PvE9dujgbGjbtCsCLA22gYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-meMmm578/fCfRVIzh8h9PvE9dujgbGjbtCsCLA22gYM="
+        }
+      ]
+    },
+    {
+      "Route": "images/settings.ntavs7krey.svg",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\settings.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "722"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i2CyfMRBTeBYW9FO3SNr/4+gjJaIjeRIpSaLf6gvV8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ntavs7krey"
+        },
+        {
+          "Name": "label",
+          "Value": "images/settings.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i2CyfMRBTeBYW9FO3SNr/4+gjJaIjeRIpSaLf6gvV8c="
+        }
+      ]
+    },
+    {
+      "Route": "images/settings.svg",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\settings.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "722"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i2CyfMRBTeBYW9FO3SNr/4+gjJaIjeRIpSaLf6gvV8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i2CyfMRBTeBYW9FO3SNr/4+gjJaIjeRIpSaLf6gvV8c="
+        }
+      ]
+    },
+    {
+      "Route": "js/history.2loypq0eo9.js",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\history.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9pHhQygsmCtsIXY5qkR3JVMEWIMzjqtJx/Ep1QAJzr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2loypq0eo9"
+        },
+        {
+          "Name": "label",
+          "Value": "js/history.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9pHhQygsmCtsIXY5qkR3JVMEWIMzjqtJx/Ep1QAJzr4="
+        }
+      ]
+    },
+    {
+      "Route": "js/history.js",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\history.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9pHhQygsmCtsIXY5qkR3JVMEWIMzjqtJx/Ep1QAJzr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9pHhQygsmCtsIXY5qkR3JVMEWIMzjqtJx/Ep1QAJzr4="
+        }
+      ]
+    },
+    {
+      "Route": "js/home.3gytpd41x4.js",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\home.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XR9UfJySSWu0n5suWPBSoOlYJ9fFW0hryW9XNcajJxA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3gytpd41x4"
+        },
+        {
+          "Name": "label",
+          "Value": "js/home.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XR9UfJySSWu0n5suWPBSoOlYJ9fFW0hryW9XNcajJxA="
+        }
+      ]
+    },
+    {
+      "Route": "js/home.js",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\home.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XR9UfJySSWu0n5suWPBSoOlYJ9fFW0hryW9XNcajJxA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XR9UfJySSWu0n5suWPBSoOlYJ9fFW0hryW9XNcajJxA="
+        }
+      ]
+    },
+    {
+      "Route": "js/program.js",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\program.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K4T93qBe+R10wvL9x6ikbiu3ww9MlVv6gp7OzZkv0vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K4T93qBe+R10wvL9x6ikbiu3ww9MlVv6gp7OzZkv0vs="
+        }
+      ]
+    },
+    {
+      "Route": "js/program.z24230mf6y.js",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\program.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K4T93qBe+R10wvL9x6ikbiu3ww9MlVv6gp7OzZkv0vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z24230mf6y"
+        },
+        {
+          "Name": "label",
+          "Value": "js/program.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K4T93qBe+R10wvL9x6ikbiu3ww9MlVv6gp7OzZkv0vs="
+        }
+      ]
+    },
+    {
+      "Route": "js/reports.1udpyy4muu.js",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\reports.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"twNB/6/f7rm/1wTWLuD1buLpy/dDiwKOsoQ7UJQI47w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1udpyy4muu"
+        },
+        {
+          "Name": "label",
+          "Value": "js/reports.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-twNB/6/f7rm/1wTWLuD1buLpy/dDiwKOsoQ7UJQI47w="
+        }
+      ]
+    },
+    {
+      "Route": "js/reports.js",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\reports.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"twNB/6/f7rm/1wTWLuD1buLpy/dDiwKOsoQ7UJQI47w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-twNB/6/f7rm/1wTWLuD1buLpy/dDiwKOsoQ7UJQI47w="
+        }
+      ]
+    },
+    {
+      "Route": "js/settings.js",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\settings.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BmtOVVMlgyD8mnJIlTr/Y1zNPszvDjUpPpz05skqKf8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BmtOVVMlgyD8mnJIlTr/Y1zNPszvDjUpPpz05skqKf8="
+        }
+      ]
+    },
+    {
+      "Route": "js/settings.una4i54zds.js",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\settings.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BmtOVVMlgyD8mnJIlTr/Y1zNPszvDjUpPpz05skqKf8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "una4i54zds"
+        },
+        {
+          "Name": "label",
+          "Value": "js/settings.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BmtOVVMlgyD8mnJIlTr/Y1zNPszvDjUpPpz05skqKf8="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.xtxxf3hu2r.js",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xtxxf3hu2r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "Workout.Web.bundle.scp.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Workout.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"52ldCu1JTuMqu8w3kl2Cf9DJ599jgIc6guuRRCr6w1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-52ldCu1JTuMqu8w3kl2Cf9DJ599jgIc6guuRRCr6w1s="
+        }
+      ]
+    },
+    {
+      "Route": "Workout.Web.jxz4v7y7h8.bundle.scp.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Workout.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"52ldCu1JTuMqu8w3kl2Cf9DJ599jgIc6guuRRCr6w1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jxz4v7y7h8"
+        },
+        {
+          "Name": "label",
+          "Value": "Workout.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-52ldCu1JTuMqu8w3kl2Cf9DJ599jgIc6guuRRCr6w1s="
+        }
+      ]
+    },
+    {
+      "Route": "Workout.Web.jxz4v7y7h8.styles.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Workout.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"52ldCu1JTuMqu8w3kl2Cf9DJ599jgIc6guuRRCr6w1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jxz4v7y7h8"
+        },
+        {
+          "Name": "label",
+          "Value": "Workout.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-52ldCu1JTuMqu8w3kl2Cf9DJ599jgIc6guuRRCr6w1s="
+        }
+      ]
+    },
+    {
+      "Route": "Workout.Web.styles.css",
+      "AssetFile": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Workout.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"52ldCu1JTuMqu8w3kl2Cf9DJ599jgIc6guuRRCr6w1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 04:01:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-52ldCu1JTuMqu8w3kl2Cf9DJ599jgIc6guuRRCr6w1s="
+        }
+      ]
     }
   ]
 }
