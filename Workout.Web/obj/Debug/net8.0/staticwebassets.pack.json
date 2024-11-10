@@ -1,84 +1,88 @@
 {
   "Files": [
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Workout.Web.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Workout.Web.bundle.scp.css"
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Workout.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Workout.Web.jxz4v7y7h8.bundle.scp.css"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\history.css",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\history.css",
       "PackagePath": "staticwebassets\\css\\history.css"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\home.css",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\home.css",
       "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\program.css",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\program.css",
       "PackagePath": "staticwebassets\\css\\program.css"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\reports.css",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\reports.css",
       "PackagePath": "staticwebassets\\css\\reports.css"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\reset.css",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\reset.css",
       "PackagePath": "staticwebassets\\css\\reset.css"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\settings.css",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\settings.css",
       "PackagePath": "staticwebassets\\css\\settings.css"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\history.svg",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\history.svg",
       "PackagePath": "staticwebassets\\images\\history.svg"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\home.svg",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\home.svg",
       "PackagePath": "staticwebassets\\images\\home.svg"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\program.svg",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\program.svg",
       "PackagePath": "staticwebassets\\images\\program.svg"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\reports.svg",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\reports.svg",
       "PackagePath": "staticwebassets\\images\\reports.svg"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\images\\settings.svg",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\images\\settings.svg",
       "PackagePath": "staticwebassets\\images\\settings.svg"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\history.js",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\history.js",
       "PackagePath": "staticwebassets\\js\\history.js"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\home.js",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\home.js",
       "PackagePath": "staticwebassets\\js\\home.js"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\program.js",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\program.js",
       "PackagePath": "staticwebassets\\js\\program.js"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\reports.js",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\reports.js",
       "PackagePath": "staticwebassets\\js\\reports.js"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\settings.js",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\settings.js",
       "PackagePath": "staticwebassets\\js\\settings.js"
     },
     {
-      "Id": "c:\\Users\\fogho\\source\\repos\\workoutmvc\\Workout.Web\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\fogho\\source\\repos\\WorkoutMVC\\workoutmvc\\Workout.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Workout.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Workout.Web.Microsoft.AspNetCore.StaticWebAssets.props",

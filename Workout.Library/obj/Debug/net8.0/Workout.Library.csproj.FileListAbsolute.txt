@@ -1,0 +1,12 @@
+C:\Users\fogho\source\repos\WorkoutMVC\workoutmvc\Workout.Library\bin\Debug\net8.0\Workout.Library.deps.json
+C:\Users\fogho\source\repos\WorkoutMVC\workoutmvc\Workout.Library\bin\Debug\net8.0\Workout.Library.dll
+C:\Users\fogho\source\repos\WorkoutMVC\workoutmvc\Workout.Library\bin\Debug\net8.0\Workout.Library.pdb
+C:\Users\fogho\source\repos\WorkoutMVC\workoutmvc\Workout.Library\obj\Debug\net8.0\Workout.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fogho\source\repos\WorkoutMVC\workoutmvc\Workout.Library\obj\Debug\net8.0\Workout.Library.AssemblyInfoInputs.cache
+C:\Users\fogho\source\repos\WorkoutMVC\workoutmvc\Workout.Library\obj\Debug\net8.0\Workout.Library.AssemblyInfo.cs
+C:\Users\fogho\source\repos\WorkoutMVC\workoutmvc\Workout.Library\obj\Debug\net8.0\Workout.Library.csproj.CoreCompileInputs.cache
+C:\Users\fogho\source\repos\WorkoutMVC\workoutmvc\Workout.Library\obj\Debug\net8.0\Workout.Library.sourcelink.json
+C:\Users\fogho\source\repos\WorkoutMVC\workoutmvc\Workout.Library\obj\Debug\net8.0\Workout.Library.dll
+C:\Users\fogho\source\repos\WorkoutMVC\workoutmvc\Workout.Library\obj\Debug\net8.0\refint\Workout.Library.dll
+C:\Users\fogho\source\repos\WorkoutMVC\workoutmvc\Workout.Library\obj\Debug\net8.0\Workout.Library.pdb
+C:\Users\fogho\source\repos\WorkoutMVC\workoutmvc\Workout.Library\obj\Debug\net8.0\ref\Workout.Library.dll
